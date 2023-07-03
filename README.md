@@ -1,5 +1,5 @@
 # HTML_and_CSS
 My road to understanding HTML and CSS
 
-#index.html
+# index.html
 This file has my first HTML commit with basic HTML structures.
